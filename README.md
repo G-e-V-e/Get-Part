@@ -1,6 +1,6 @@
 # Get-Part
 
-Return the requested part of a string based on its splitted parts and joined using a delimiter string.
+Return the requested part of a string based on its split parts and joined using a delimiter string.
 
 	1. Split String in an array using regular expression Split (or Delimiter if Split is omitted).
 	2. Remove empty parts if switch NotEmpty is true.
